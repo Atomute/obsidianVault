@@ -276,11 +276,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "c98dc9bfafd98d06",
   "lastOpenFiles": [
+    "obsidianVault",
     "Thaicom/LinkBudget/Link Budget.md",
     "2025-04-08.md",
     "2025-04-09.md",
@@ -309,7 +311,6 @@
     "Thaicom-intern/KMUTNB Project/Hosting service.md",
     "Thaicom-intern/IMERG v07.md",
     "Thaicom-intern/Rain project Deployment DOCs.md",
-    "Thaicom-intern/LULC Assesment/LULC Assesment.md",
     "Asset/pick_notpick_count.png",
     "Asset/pick_notpick_percent.png",
     "Asset/f1score_barplot.png",

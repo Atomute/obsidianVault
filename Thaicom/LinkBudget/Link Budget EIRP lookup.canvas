@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"fce3e0e56bfa30f7","type":"text","text":"lat long to EIRP\nPython","x":320,"y":-220,"width":250,"height":60},
+		{"id":"41f493cf39c8a981","type":"text","text":"input","x":-380,"y":-580,"width":250,"height":60},
+		{"id":"42598b861af300b7","type":"text","text":"read csv\nPython","x":20,"y":-580,"width":250,"height":60},
+		{"id":"a7a0f545b6809ff5","type":"text","text":"address to lat long\nLLM","x":-180,"y":-440,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e95aec5517ca5ccf","fromNode":"41f493cf39c8a981","fromSide":"right","toNode":"a7a0f545b6809ff5","toSide":"left"},
+		{"id":"d17ff3596dc29428","fromNode":"a7a0f545b6809ff5","fromSide":"right","toNode":"42598b861af300b7","toSide":"left"},
+		{"id":"64e02cfb5939e88a","fromNode":"42598b861af300b7","fromSide":"right","toNode":"fce3e0e56bfa30f7","toSide":"left"}
+	]
+}

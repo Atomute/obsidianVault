@@ -1,0 +1,4 @@
+- can't convert with library
+- have to convert manually
+	- inspect the model architecture
+	- rebuilding it from scratch in another framework

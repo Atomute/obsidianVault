@@ -1,0 +1,3 @@
+___
+## About me
+I am an about-to-graduate of KMUTNB bachelor of engineering in computer engineering. I will be graduated in May 2025. My strength is I'm a fast-learner and a mega-mind, and my talent is programming in python and working with LLM. I enjoy prompting and see that LLM can achieve its goal with my prompt, I'm obbessed with planning and managing the flow of thought in a chatbot application. I want to see where LLM will lead us to.

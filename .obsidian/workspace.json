@@ -128,12 +128,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-04-09.md",
+                "file": "2025-04-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-09"
+              "title": "2025-04-08"
             }
           }
         ],
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-04-09.md",
+                "file": "2025-04-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-04-09"
+              "title": "Backlinks for 2025-04-08"
             }
           },
           {
@@ -282,10 +282,10 @@
   },
   "active": "c98dc9bfafd98d06",
   "lastOpenFiles": [
+    "2025-04-09.md",
     "obsidianVault",
     "Thaicom/LinkBudget/Link Budget.md",
     "2025-04-08.md",
-    "2025-04-09.md",
     "Thaicom/PGvector.md",
     "LAT-LONG csv.md",
     "Thaicom/LinkBudget/Link Budget EIRP lookup.canvas",
